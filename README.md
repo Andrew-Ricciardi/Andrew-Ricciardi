@@ -7,10 +7,9 @@ First time posting my work anywhere. I poke at things in my own environments and
 - Learning how disclosures and bug bounty reports work, start to finish
 - AI security, especially how model safeguards handle real security work
 
-**How I work (disclosure policy)**
-- Only systems I own or have written authorization to test
-- Vendor first, writeup second. If a fix needs time, I wait
-- No data leaves a system I test, not even my own
+**How I work**
+- Mostly my own lab, or stuff someone actually asked me to poke at
+- If it turns out to be somebody's product, they hear about it before anyone else does
 - If something I published turns out wrong, tell me. I would rather learn than argue
 
 **How I write things up**
