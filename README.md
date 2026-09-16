@@ -26,8 +26,3 @@ Every finding gets the same shape, whether it turns into a CVE or nothing at all
 - Setting up my lab notes repo
 - Working toward a first CVE
 - Learning in public, one writeup at a time
-
-**Find me**
-- Email: [add yours]
-- PGP: [add your key id]
-- X: [add your handle]
