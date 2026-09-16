@@ -22,6 +22,6 @@ Every finding gets the same shape, whether it turns into a CVE or nothing at all
 - disclosure timeline, and credit where it is due
 
 **Right now**
-- Setting up my lab notes repo
+- Study writeups: [writeups](https://github.com/Andrew-Ricciardi/writeups)
 - Working toward a first CVE
 - Learning in public, one writeup at a time
